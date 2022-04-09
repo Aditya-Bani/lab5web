@@ -4,7 +4,7 @@
 | Kelas   | TI.20.A.1        |
 
 ## Langkah langkah praktikum 5
-Disini saya menggunakan texy editor Visual Studio Code
+Disini saya menggunakan text editor Visual Studio Code
 
 ![imgmulai!](assets/img/mulai.PNG)
 
@@ -28,7 +28,7 @@ Pemakaian Prompt
 
 ![img7!](assets/img/7.PNG)
 ![img8!](assets/img/8.PNG)
-![img9!](assets/img/9.PNG
+![img9!](assets/img/9.PNG)
 
 Pembuatan fungsi dan cara pemanggilannya
 
