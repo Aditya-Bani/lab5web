@@ -76,7 +76,7 @@ Pilihan menggunakan checkbox dengan perhitungan otomatis
 Membuat validasi nama, No.Telp, Email
 
 ## 1. Nama
-Disini saya akan memberikan validasi berupa inputan hanya boleh menggunakan Huruf/Alphabet saja. Contoh : Bani (benar), Bani04 (salah)
+Disini saya akan memberikan validasi berupa inputan hanya boleh menggunakan Huruf/Alphabet saja. Contoh : AdityaBaniIsro (benar), AdityaBaniIsro02 (salah)
 
 ![img25!](assets/img/25.PNG)
 
@@ -101,7 +101,7 @@ Penjelasan:
 ![img28!](assets/img/28.PNG)
 
 ## Email
-Pada email akan diberikan validasi masih berupa Regular Expression. Contoh: adityabani@gmail.com (benar), adityabani@gmail. (salah).
+Pada email akan diberikan validasi masih berupa Regular Expression. Contoh: bani96963@gmail.com (benar), bani96963@gmail. (salah).
 
 ![img29!](assets/img/29.PNG)
 
